@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning на python разработчика
 - 💞️ I’m looking to collaborate on пока что не знаю (●'◡'●)
 - 📫 How to reach me телеграмм @andreykribs
-- 😄 Pronouns: ¯\_(ツ)_/¯
+- 😄 Pronouns:   ¯\_(ツ)_/¯
 - ⚡ Fun fact: обожаю сыр😍
 
 <!---
